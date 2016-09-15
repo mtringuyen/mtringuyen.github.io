@@ -9,10 +9,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mtringuyen.github.io" # the base hostname & protocol for your site
 twitter_username: mtri_nguyen
 github_username:  mtringuyen
-google_play: 'GDGX'
-google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
-facebook_app_id: 12345
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -37,5 +33,5 @@ disqus_shortname: 'mtri-nguyen'
 markdown: kramdown
 
 # Build settings
-theme: minima
+#theme: minima
 #permalink: /blog/:year/:month/:day/:title
